@@ -1,0 +1,10 @@
+D:\C#\labs\lab2\Graphics\Graphics\bin\Debug\Graphics.exe.config
+D:\C#\labs\lab2\Graphics\Graphics\bin\Debug\Graphics.exe
+D:\C#\labs\lab2\Graphics\Graphics\bin\Debug\Graphics.pdb
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\GraphicsApp0.csprojAssemblyReference.cache
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\GraphicsApp.Form1.resources
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\GraphicsApp0.csproj.GenerateResource.cache
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\GraphicsApp0.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\Graphics.exe
+D:\C#\labs\lab2\Graphics\Graphics\obj\Debug\Graphics.pdb

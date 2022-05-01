@@ -1,0 +1,12 @@
+D:\C#\Graphics\1\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#\Graphics\1\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#\Graphics\1\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\C#\Graphics\1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\Graphics\1\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#\Graphics\1\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\C#\labs\lab2\1.6\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#\labs\lab2\1.6\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#\labs\lab2\1.6\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\C#\labs\lab2\1.6\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab2\1.6\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#\labs\lab2\1.6\MyLibrary\obj\Debug\MyLibrary.pdb

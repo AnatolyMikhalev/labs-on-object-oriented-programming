@@ -1,0 +1,24 @@
+D:\C#\labs\lab4\MainResolve\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab4\MainResolve\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\C#\labs\lab4\MainResolve 1.1\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve 1.1\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve 1.1\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\C#\labs\lab4\MainResolve 1.1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab4\MainResolve 1.1\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve 1.1\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve 1.2\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve 1.2\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve 1.2\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\C#\labs\lab4\MainResolve 1.2\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab4\MainResolve 1.2\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve 1.2\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve 1.3\MyLibrary\bin\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve 1.3\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\C#\labs\lab4\MainResolve 1.3\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\C#\labs\lab4\MainResolve 1.3\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab4\MainResolve 1.3\MyLibrary\obj\Debug\MyLibrary.dll
+D:\C#\labs\lab4\MainResolve 1.3\MyLibrary\obj\Debug\MyLibrary.pdb

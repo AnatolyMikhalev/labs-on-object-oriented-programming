@@ -1,0 +1,13 @@
+D:\C#\labs\lab2\1.6\1\bin\Debug\1.exe.config
+D:\C#\labs\lab2\1.6\1\bin\Debug\1.exe
+D:\C#\labs\lab2\1.6\1\bin\Debug\1.pdb
+D:\C#\labs\lab2\1.6\1\bin\Debug\MyLibrary.dll
+D:\C#\labs\lab2\1.6\1\bin\Debug\MyLibrary.pdb
+D:\C#\labs\lab2\1.6\1\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\C#\labs\lab2\1.6\1\obj\Debug\_1.Properties.Resources.resources
+D:\C#\labs\lab2\1.6\1\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\C#\labs\lab2\1.6\1\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\C#\labs\lab2\1.6\1\obj\Debug\lab2.csproj.CopyComplete
+D:\C#\labs\lab2\1.6\1\obj\Debug\1.exe
+D:\C#\labs\lab2\1.6\1\obj\Debug\1.pdb
+D:\C#\labs\lab2\1.6\1\obj\Debug\lab2.CreateFigures.resources

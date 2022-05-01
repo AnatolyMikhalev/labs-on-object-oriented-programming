@@ -1,0 +1,6 @@
+D:\C#\Graphics\1\MyLibrary\bin\Release\MyLibrary.dll
+D:\C#\Graphics\1\MyLibrary\bin\Release\MyLibrary.pdb
+D:\C#\Graphics\1\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+D:\C#\Graphics\1\MyLibrary\obj\Release\MyLibrary.dll
+D:\C#\Graphics\1\MyLibrary\obj\Release\MyLibrary.pdb
+D:\C#\Graphics\1\MyLibrary\obj\Release\MyLibrary.csprojAssemblyReference.cache
